@@ -1,0 +1,13 @@
+flask
+gunicorn
+line-bot-sdk
+pya3rt
+wikipedia
+cotohappy
+jaconv
+romkan
+pykakasi
+efficientnet_pytorch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
